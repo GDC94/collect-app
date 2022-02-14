@@ -1,0 +1,12 @@
+   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 436" class="m-install--hexagonal-shape" style="height: 436px;">
+    <defs>
+        <linearGradient id="install-hexagonal-shape-background-gradient" gradientUnits="userSpaceOnUse" x1="-30%" y1="0%" x2="75%" y2="0%" gradientTransform="rotate(120)">
+            <stop offset="0%" stop-color="#769bf7"></stop>
+            <stop offset="100%" stop-color="#b49edc"></stop>
+        </linearGradient>
+    </defs>
+
+    <path fill="url(#install-hexagonal-shape-background-gradient)" d="M358.2,357.6l-116.5,67.2c-25.8,14.9-57.7,14.9-83.5,0L41.8,357.6C15.9,342.7,0,315.1,0,285.2V150.8
+        c0-29.8,15.9-57.4,41.8-72.3l116.5-67.2c25.8-14.9,57.7-14.9,83.5,0l116.5,67.2c25.8,14.9,41.8,42.5,41.8,72.3v134.5
+        C400,315.1,384.1,342.7,358.2,357.6z"></path>
+</svg>
